@@ -6,12 +6,12 @@ This playground is perfect for learning, prototyping UI interactions, or embeddi
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 
 👉 [View Live Demo](https://drag-and-drop-playground-vanillajs.vercel.app/)
 ---
 
-## ✨ Features
+## Features
 
 - 🖱️ Drag and drop elements within a container
 - 📦 Fully customizable layout and elements
@@ -22,8 +22,15 @@ This playground is perfect for learning, prototyping UI interactions, or embeddi
 
 ---
 
-## 🧪 How It Works
+## How It Works
 
 The core functionality is powered by the **native Drag & Drop API** and basic DOM manipulation. Items are draggable using mouse events and repositioned dynamically.
 
+You can only use the project by simply putting it through a web development environment like Xampp, Wamp or Laragon.
+
 ---
+
+
+## Detail Information
+
+For more details you can visit Documentation.docx File
